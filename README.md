@@ -16,8 +16,8 @@ Aplicativo baseado em React que traz um cronometro utilizando o conceito de stat
 
   
   
-  ## 📌 Status do Projeto
+## 📌 Status do Projeto
   
-  Em Desenvolvimento
+- Em Desenvolvimento
   
   
