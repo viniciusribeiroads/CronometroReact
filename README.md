@@ -4,7 +4,7 @@
 
 ## ⚔️ Sobre
 
-Aplicativo baseado em React que traz uma bussola utilizando o conceito de states em React, utilizando métodos como o setInterval e clearInterval.
+Aplicativo baseado em React que traz um cronometro utilizando o conceito de states, utilizando métodos como o setInterval e clearInterval.
 
 ##  
 
