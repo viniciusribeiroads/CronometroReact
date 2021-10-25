@@ -1,6 +1,6 @@
 # 🚀 CRONOMETRO 
 
-![image-20211024213136379](C:\Users\Vinicius\AppData\Roaming\Typora\typora-user-images\image-20211024213136379.png)
+![img-proj](https://user-images.githubusercontent.com/70332384/138619728-7703bd09-f761-42c8-8b94-c891a513ac28.JPG)
 
 ## ⚔️ Sobre
 
